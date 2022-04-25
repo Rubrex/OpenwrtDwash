@@ -36,7 +36,9 @@ export const fetchSlider = (sliderValue = 1) => dispatch => {
     const currentEPOCH = Math.floor(Date.now() / 1000);
     // in perm Slider value must be inserted after 86400
     const fromEPOCH = currentEPOCH - (86400 * sliderValue);
-    axios.post(GRAPHDATA_API, { "fromdate": fromEPOCH })
+    const postEPOCH = { "fromdate": fromEPOCH, "todate": currentEPOCH }
+    console.log(postEPOCH);
+    axios.post(GRAPHDATA_API, postEPOCH)
         .then(response => response.data)
         .then(sliderSelectorState => dispatch(sliderLoaded(sliderSelectorState)))
         .catch(error => console.log(error))
