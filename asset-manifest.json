@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/OpenwrtDwash/static/css/main.2d06f412.css",
-    "main.js": "/OpenwrtDwash/static/js/main.c67e2211.js",
+    "main.css": "/OpenwrtDwash/static/css/main.6da4e4c8.css",
+    "main.js": "/OpenwrtDwash/static/js/main.00276c3e.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/OpenwrtDwash/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/OpenwrtDwash/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/OpenwrtDwash/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -9,11 +9,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/OpenwrtDwash/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/bgc.svg": "/OpenwrtDwash/static/media/bgc.aa0100569204ba4d3a9a.svg",
     "index.html": "/OpenwrtDwash/index.html",
-    "main.2d06f412.css.map": "/OpenwrtDwash/static/css/main.2d06f412.css.map",
-    "main.c67e2211.js.map": "/OpenwrtDwash/static/js/main.c67e2211.js.map"
+    "main.6da4e4c8.css.map": "/OpenwrtDwash/static/css/main.6da4e4c8.css.map",
+    "main.00276c3e.js.map": "/OpenwrtDwash/static/js/main.00276c3e.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d06f412.css",
-    "static/js/main.c67e2211.js"
+    "static/css/main.6da4e4c8.css",
+    "static/js/main.00276c3e.js"
   ]
 }
