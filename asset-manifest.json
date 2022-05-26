@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/OpenwrtDwash/static/css/main.f58d6cab.css",
-    "main.js": "/OpenwrtDwash/static/js/main.4fa87c10.js",
+    "main.css": "/OpenwrtDwash/static/css/main.e1734ccc.css",
+    "main.js": "/OpenwrtDwash/static/js/main.a20a09a2.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/OpenwrtDwash/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/OpenwrtDwash/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/OpenwrtDwash/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/OpenwrtDwash/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/OpenwrtDwash/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/bgc.svg": "/OpenwrtDwash/static/media/bgc.aa0100569204ba4d3a9a.svg",
+    "static/media/bgc.svg": "/OpenwrtDwash/static/media/bgc.669e4bd3bc507ffb90cc.svg",
     "index.html": "/OpenwrtDwash/index.html",
-    "main.f58d6cab.css.map": "/OpenwrtDwash/static/css/main.f58d6cab.css.map",
-    "main.4fa87c10.js.map": "/OpenwrtDwash/static/js/main.4fa87c10.js.map"
+    "main.e1734ccc.css.map": "/OpenwrtDwash/static/css/main.e1734ccc.css.map",
+    "main.a20a09a2.js.map": "/OpenwrtDwash/static/js/main.a20a09a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f58d6cab.css",
-    "static/js/main.4fa87c10.js"
+    "static/css/main.e1734ccc.css",
+    "static/js/main.a20a09a2.js"
   ]
 }
